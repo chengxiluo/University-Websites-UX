@@ -1,4 +1,7 @@
 # University-Websites-UX
+Experiment data and tools for evaluating user experience for university websites as defined in [this paper](./ProjectPaper_UniversityWebsiteUX.pdf).
+
+## Abstract
 The world is a global village where online presence ensures
 the existence of an entity. Like any other organization, official websites are also the faces of academic institutes in the
 world wide web. They have many online visitors with multiple purposes and one important user group among them is
@@ -13,3 +16,11 @@ from their end is required to accomplish such tasks and finally
 compared and analyzed our findings with usability score measured by a professional web user-experience analytics service
 provider. The insights uncovered in this work might play a
 major role in the designing phase of academic websites.
+
+## Tools
+
+- WAMMI
+- Clicker Counter
+- Timer
+- NASA_TLX
+
